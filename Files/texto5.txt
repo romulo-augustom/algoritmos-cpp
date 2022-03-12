@@ -1,0 +1,15 @@
+Romulo
+3300
+2
+Bruna
+2400
+1
+Maria
+1500
+3
+Gabriel
+1100
+4
+Thiago
+1800
+5

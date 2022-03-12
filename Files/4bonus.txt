@@ -1,0 +1,5 @@
+romulo: R$1420
+maria: R$590
+bruna: R$575
+gabriel: R$670
+thiago: R$225

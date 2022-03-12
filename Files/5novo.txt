@@ -1,0 +1,5 @@
+Romulo: 3960
+Bruna: 2640
+Maria: 1950
+Gabriel: 1540
+Thiago: 2520

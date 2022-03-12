@@ -1,0 +1,3 @@
+Amauri: 8.05
+Maria: 5.8
+Pedro: 9.275
